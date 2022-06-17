@@ -4,7 +4,8 @@
 void main() {
   String? favoriteFood = 'Mie Ayam';
 
-  buyAMeal(favoriteFood!);
+  // buyAMeal(favoriteFood!); // Ada error sedikit
+  buyAMeal(favoriteFood);
 }
 
 void buyAMeal(String favoriteFood) {
