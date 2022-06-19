@@ -1,4 +1,5 @@
 void main(List<String> arguments) {
+  // ignore: equal_elements_in_set
   var a = <int>{1,2,3,4,3,3};
 
   // Perbedaan Set dan List
