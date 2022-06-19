@@ -1,5 +1,3 @@
-import 'package:variables/variables.dart' as variables;
-
 void main(List<String> arguments) {
   var greetings = "Hello World";
 
